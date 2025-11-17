@@ -210,13 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Machine learning optimization for fruit selection
 - [ ] Mobile app development
 - [ ] Hardware integration for actual panel deployment
-- [ ] Multi-language support (100+ languages)
+- [ ] Multi-language support (10+ languages)
 - [ ] Advanced 3D visualizations with AR support
-
-## 📞 Support
-
-For support, please contact us at support@biophotonix.com or create an issue on GitHub.
-
----
 
 **Biophotonix** - Harnessing Nature's Energy, One Fruit at a Time 🌱⚡
